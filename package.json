@@ -1,0 +1,17 @@
+{
+  "author": "Roberto Rodriguez <roberto@rodriguezartav.com>",
+  "name": "mockjaxify",
+  "description": "A NPM Wrapper for jquery.mockjax",
+  "version": "0.0.1",
+  "homepage": "https://github.com/appendto/jquery-mockjax",
+  "repository": {
+    "type": "git",
+    "url": ")"
+  },
+  "main": "./jquery.mockjax.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
